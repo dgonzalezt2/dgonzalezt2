@@ -24,10 +24,12 @@
       <img width=325 align="center" src="https://egonzalezt.vercel.app//api/top-langs/?username=dgonzalezt2&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br>
-  
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dgonzalezt2&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+  <div align="center">
+  <h2 align="center">Reach me out on 📫</h2>
+ <a href="https://www.instagram.com/davidgonza0326/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
+ <a href="mailto:davidgonzaleztamayo@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
+ <a href="https://www.linkedin.com/in/david-gonz%C3%A1lez-tamayo/">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
+<a href="https://twitter.com/David2126133">  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /> </a>
 
 <!--
 **dgonzalezt2/dgonzalezt2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
