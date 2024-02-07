@@ -46,14 +46,14 @@
 <br/><br/><br/><br/><br/><br/>
 
     
-  <h2 align="center">Reach me out on 📫</h2>
+  <h2 align="center">📫 Reach me out on 📫</h2>
  <a href="https://www.instagram.com/davidgonza0326/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
  <a href="mailto:davidgonzaleztamayo@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
  <a href="https://www.linkedin.com/in/david-gonz%C3%A1lez-tamayo/">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
 <a href="https://twitter.com/David2126133">  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /> </a>
 
 <div align="center">
-  <h1>Take a look at my repositories 👇</h1>
+  <h1>👇 Take a look at my repositories 👇</h1>
 </div>
 <div align="center">
  <img src="https://badges.pufler.dev/visits/dgonzalezt2/ritik307"/> 
