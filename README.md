@@ -34,7 +34,12 @@
 <div align="center">
   <h1>Take a look at my repositories 👇</h1>
 </div>
-
+<div align="center">
+ <img src="https://badges.pufler.dev/visits/dgonzalezt2/ritik307"/> 
+ <img src="https://badges.pufler.dev/years/dgonzalezt2"/>
+ <img src="https://badges.pufler.dev/repos/dgonzalezt2"/>
+ <img src="https://badges.pufler.dev/commits/monthly/dgonzalezt2" />
+</div>
 <!--
 **dgonzalezt2/dgonzalezt2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
