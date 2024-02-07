@@ -29,13 +29,13 @@
   <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-    <a align="left" href="https://github.com/dgonzalezt2/FireFly" title="FireFly"><img align="left" height="115" src="https://egonzalezt.vercel.app//api/pin/?username=egonzalezt&repo=Discordbot&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a align="right" href="https://github.com/dgonzalezt2/MSSQL_with_PythonGUI" title="MSSQL_with_PythonGUI"><img align="right" height="115" src="https://egonzalezt.vercel.app//api/pin/?username=jdmejiav&repo=yabd-storage-system&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="left" href="https://github.com/dgonzalezt2/FireFly" title="FireFly"><img align="left" height="115" src="https://egonzalezt.vercel.app//api/pin/?username=dgonzalezt2&repo=FireFly&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="right" href="https://github.com/dgonzalezt2/MSSQL_with_PythonGUI" title="MSSQL_with_PythonGUI"><img align="right" height="115" src="https://egonzalezt.vercel.app//api/pin/?username=dgonzalezt2&repo=MSSQL_with_PythonGUI&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/dgonzalezt2/API-Movies" title="API-Movies Kubernets"><img align="left" height="115" src="https://egonzalezt.vercel.app//api/pin/?username=egonzalezt&repo=Discordbot&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/dgonzalezt2/JuegoCarroJack" title="Game with Jack"><img align="right" height="115" src="https://egonzalezt.vercel.app//api/pin/?username=egonzalezt&repo=Minecraft-App&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/dgonzalezt2/API-Movies" title="API-Movies Kubernets"><img align="left" height="115" src="https://egonzalezt.vercel.app//api/pin/?username=dgonzalezt2&repo=API-Movies&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/dgonzalezt2/JuegoCarroJack" title="Game with Jack"><img align="right" height="115" src="https://egonzalezt.vercel.app//api/pin/?username=dgonzalezt2&repo=JuegoCarroJack&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
