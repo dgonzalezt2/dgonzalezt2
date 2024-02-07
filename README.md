@@ -31,6 +31,10 @@
  <a href="https://www.linkedin.com/in/david-gonz%C3%A1lez-tamayo/">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
 <a href="https://twitter.com/David2126133">  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /> </a>
 
+<div align="center">
+  <h1>Take a look at my repositories 👇</h1>
+</div>
+
 <!--
 **dgonzalezt2/dgonzalezt2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
