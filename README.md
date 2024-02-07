@@ -25,6 +25,25 @@
     </a>
   </div>
   <div align="center">
+  
+  <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+    <a align="left" href="https://github.com/dgonzalezt2/FireFly" title="FireFly"><img align="left" height="115" src="https://egonzalezt.vercel.app//api/pin/?username=egonzalezt&repo=Discordbot&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="right" href="https://github.com/dgonzalezt2/MSSQL_with_PythonGUI" title="MSSQL_with_PythonGUI"><img align="right" height="115" src="https://egonzalezt.vercel.app//api/pin/?username=jdmejiav&repo=yabd-storage-system&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/dgonzalezt2/API-Movies" title="API-Movies Kubernets"><img align="left" height="115" src="https://egonzalezt.vercel.app//api/pin/?username=egonzalezt&repo=Discordbot&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/dgonzalezt2/JuegoCarroJack" title="Game with Jack"><img align="right" height="115" src="https://egonzalezt.vercel.app//api/pin/?username=egonzalezt&repo=Minecraft-App&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+
+<h4 align="center">
+  <a href="https://github.com/dgonzalezt2?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+    
   <h2 align="center">Reach me out on 📫</h2>
  <a href="https://www.instagram.com/davidgonza0326/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
  <a href="mailto:davidgonzaleztamayo@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
