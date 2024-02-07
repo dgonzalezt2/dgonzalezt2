@@ -2,6 +2,11 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+DavidGT....;Nice+to+meet+you!&center=true&size=30">
   </a>
+  <div align="center"> 
+  <p align="center">
+    "I'm actually computer science student at EAFIT🎓 🏛. I'm a passionate learner who's always willing to learn and work across technologies and fields 🕸️✨. One of my strengths is Web  Development but I am willing to explore new challenges 👀🧠💡."
+</p>
+</div>
 </h1>
 
 <h2 align="center">⚡ Stats ⚡</h2>
