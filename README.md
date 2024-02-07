@@ -39,10 +39,6 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 
-
-<h4 align="center">
-  <a href="https://github.com/dgonzalezt2?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
     
   <h2 align="center">Reach me out on 📫</h2>
  <a href="https://www.instagram.com/davidgonza0326/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
@@ -59,6 +55,9 @@
  <img src="https://badges.pufler.dev/repos/dgonzalezt2"/>
  <img src="https://badges.pufler.dev/commits/monthly/dgonzalezt2" />
 </div>
+<h4 align="center">
+  <a href="https://github.com/dgonzalezt2?tab=repositories" title="Show Repositories">🔎 Show More Repositories 🔍</a>
+</h4>
 <!--
 **dgonzalezt2/dgonzalezt2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
