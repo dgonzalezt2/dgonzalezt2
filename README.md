@@ -30,7 +30,7 @@
 <br>
 <div width="100%" align="center">
     <a align="left" href="https://github.com/dgonzalezt2/FireFly" title="FireFly"><img align="left" height="115" src="https://egonzalezt.vercel.app//api/pin/?username=dgonzalezt2&repo=FireFly&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a align="right" href="https://github.com/dgonzalezt2/MSSQL_with_PythonGUI" title="MSSQL_with_PythonGUI"><img align="right" height="115" src="https://egonzalezt.vercel.app//api/pin/?username=dgonzalezt2&repo=MSSQL_with_PythonGUI&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="right" href="https://github.com/dgonzalezt2/MSSQL_with_PythonGUI" title="MSSQL_with_PythonGUI"><img align="right" height="133" src="https://egonzalezt.vercel.app//api/pin/?username=dgonzalezt2&repo=MSSQL_with_PythonGUI&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
