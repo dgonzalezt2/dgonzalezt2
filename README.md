@@ -5,7 +5,7 @@
 </h1>
   <div align="center"> 
   <p align="center">
-    I'm actually computer science student at EAFIT 🎓🏛. I'm a passionate learner who's always willing to learn and work across technologies and fields 🤖🧠.
+    I'm computer science student at EAFIT 🎓🏛. I characterize myself as a passionate person who is always willing to learn and work in different technologies and fields 🤖🧠.
     One of my strengths is Web  Development but I am willing to explore new challenges 👀💡
 </p>
 </div>
