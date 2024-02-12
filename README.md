@@ -5,8 +5,8 @@
 </h1>
   <div align="center"> 
   <p align="center">
-    "I'm actually computer science student at EAFIT 🎓🏛. I'm a passionate learner who's always willing to learn and work across technologies and fields 🤖🧠.
-    One of my strengths is Web  Development but I am willing to explore new challenges 👀💡"
+    I'm actually computer science student at EAFIT 🎓🏛. I'm a passionate learner who's always willing to learn and work across technologies and fields 🤖🧠.
+    One of my strengths is Web  Development but I am willing to explore new challenges 👀💡
 </p>
 </div>
 <h3 align="left">Languages and Tools:</h3>
