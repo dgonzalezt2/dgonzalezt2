@@ -11,7 +11,7 @@
 </div>
 - 🌱 I’m currently learning C# and .NET
 
-- 🔭 My current project in BETA phase is [Tetris](https://github.com/dgonzalezt2/Tetris) a game made with C#
+- 🔭 My current project in BETA phase is [Tetris](https://github.com/dgonzalezt2/Tetris) a classic game made with C#
   
 <h3 align="left">Languages:</h3>
 <p align="left">
