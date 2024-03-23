@@ -14,7 +14,7 @@
 
 - 🔭 My current project in BETA phase is [Tetris](https://github.com/dgonzalezt2/Tetris) a classic game made with C#
   
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages: </h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/Python-Dark.svg" alt="python" width="40" height="40"/>
