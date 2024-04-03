@@ -91,6 +91,9 @@
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/GCP-Dark.svg" alt="gcp" width="40" height="40"/>
   </a>
+    <a href="https://aws.amazon.com/es/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg" alt="gcp" width="40" height="40"/>
+  </a>
     <a href="https://https://github.com/dgonzalezt2/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/Github-Dark.svg" alt="git" width="40" height="40"/>
   </a>
