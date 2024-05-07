@@ -8,6 +8,7 @@
     I'm computer science student at EAFIT 🎓🏛. I characterize myself as a passionate person who is always willing to learn and work in different technologies and fields 🤖🧠.
     One of my strengths is Web  Development but I am willing to explore new challenges 👀💡.
 </p> 
+    
 </div>
 
 - 🌱 I’m currently learning **C#** and **.NET**
