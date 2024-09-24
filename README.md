@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **C#** **.NET** and **Kotlin**.
 
-- 🔭 My current project in BETA phase is [Tetris](https://github.com/dgonzalezt2/Tetris) a classic game made with **C#**
+- 🔭 My current project in BETA phase is [Tetris](https://github.com/dgonzalezt2/Tetris) a classic game made with **C#**.
   
 <h3 align="left">Languages: </h3>
 <p align="left">
