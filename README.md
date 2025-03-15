@@ -11,6 +11,7 @@
   
 </div>
 
+
 - 🌱 I’m currently learning **C#** **.NET** and **Kotlin**.
 
 - 🔭 My current project in BETA phase is [Tetris](https://github.com/dgonzalezt2/Tetris) a classic game made with **C#**.
