@@ -146,7 +146,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/dgonzalezt2/IMDb" title="API-Movies Kubernets"><img align="left" height="115" src="https://egonzalezt.vercel.app//api/pin/?username=dgonzalezt2&repo=API-Movies&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/dgonzalezt2/IMDb" title="IMDb - Android App"><img align="left" height="115" src="https://egonzalezt.vercel.app//api/pin/?username=dgonzalezt2&repo=IMDb&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/dgonzalezt2/Days_Counter" title="Counter with React"><img align="right" height="115" src="https://egonzalezt.vercel.app//api/pin/?username=dgonzalezt2&repo=Days_Counter&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
