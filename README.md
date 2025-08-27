@@ -5,7 +5,7 @@
 </h1>
   <div align="center"> 
   <p align="center">
-    I'm computer science student at EAFIT 🎓🏛. I characterize myself as a passionate person who is always willing to learn and work in different technologies and fields 🤖🧠.
+    I'm computer science at EAFIT 🎓🏛. I characterize myself as a passionate person who is always willing to learn and work in different technologies and fields 🤖🧠.
     One of my strengths is Web  Development but I am willing to explore new challenges 👀💡.
 </p> 
   
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **C#** **.NET** and **Kotlin**.
 
-- 🔭 My current project in BETA phase is [Tetris](https://github.com/dgonzalezt2/Tetris) a classic game made with **C#**.
+- 🔭 My current project in BETA phase is [IMDb](https://github.com/dgonzalezt2/IMDb) a Mobile App made with **Kotlin** | [Tetris](https://github.com/dgonzalezt2/Tetris) a classic game made with **C#**.
   
 <h3 align="left">Languages: </h3>
 <p align="left">
